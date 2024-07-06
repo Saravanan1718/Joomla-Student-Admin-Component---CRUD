@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<form>
+	<fieldset>
+		<field
+			name="Id"
+			type="hidden"
+			
+		/>
+		<field
+			name="Name"
+			type="text"
+			label="Name"
+			description="COM_HELLOWORLD_HELLOWORLD_GREETING_DESC"
+			size="40"
+			class="inputbox"
+			default=""
+		/>
+		<field
+		         name="Age"
+			 type="int"
+			 label="Age"
+			 class="inputbox"
+			 default=""
+		/>
+		<field
+		        name="Email"
+			 type="text"
+			 label="Email"
+			 class="inputbox"
+			 default=""
+		/>
+	</fieldset>
+</form>
